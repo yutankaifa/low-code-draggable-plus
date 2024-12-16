@@ -1,6 +1,6 @@
 {
   "name": "low-code-draggable-plus",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": {
     "name": "yutankaifa"
   },
@@ -25,6 +25,10 @@
     "dragging",
     "vue-draggable"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yutankaifa/low-code-draggable-plus"
+  },
   "files": [
     "dist",
     "LICENSE",
